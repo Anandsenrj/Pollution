@@ -1,0 +1,53 @@
+h1{
+    color: gold;
+    border-color: rgb(255, 217, 0);
+    border-style: groove;
+    border-width: 10px;
+    border-block-color: brown ;
+    font-family: cursive;
+    background-color:green;
+    font-size: xxx-large;
+}
+nav{
+    background-color:black;
+    max-width: max-content;
+
+}
+a{  
+    font-size: larger;
+    font-family:'Gill Sans';
+}
+ 
+a:link {
+    color:greenyellow;
+  }
+  a:visited {
+    color:white;
+  }
+  a:hover {
+    color:red;
+  }
+  a:active {
+    color:green;
+  }
+table{background-color: black;
+    height: 100%;
+ }
+p{
+    background-colo: black;
+    color: yellow;
+    text-align: justify;
+    font-size:x-large;
+    font-family: 'Trebuchet MS';
+}
+html {
+    scroll-behavior: smooth;
+  }
+form{
+    font-family: 'Lucida Sans Unicode';
+}
+table{
+    font-size: larger;
+    background-color: darkgreen;
+
+}
